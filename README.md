@@ -1,12 +1,12 @@
 ## introducao ao projeto
 
-primeiro projeto backend feito por mim, Lucca Guedes Batistela, para o processo trainee 2023/2 da Comp Jr,
+-primeiro projeto backend feito por mim, Lucca Guedes Batistela, para o processo trainee 2023/2 da Comp Jr,
 
-rota GET POST PUT DELETE,
-registro, login, password, email, reset-password, forgot-password,
-POST PUT e DELETE protegidas com token de autentificacao,
-autentificacao e criptografia de senhas,
-upload de uma imagem ou array de imagens
+-rota GET POST PUT DELETE,
+-registro, login, password, email, reset-password, forgot-password,
+-POST PUT e DELETE protegidas com token de autentificacao,
+-autentificacao e criptografia de senhas,
+-upload de uma imagem ou array de imagens
 
 ## como rodar
 
@@ -27,6 +27,6 @@ npm run serve
 
 ## creditos
 
-Comp Jr, UFLA
-Lucca Guedes Batistela
-Pedro Montuani, pelo incrivel tutorial
+-Comp Jr, UFLA
+-Lucca Guedes Batistela
+-Pedro Montuani, pelo incrivel tutorial
